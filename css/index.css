@@ -188,7 +188,38 @@ button.btn {
 
 
 
+/* Features section */
 
+.box {
+
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 15px;
+  
+}
+
+.box i {
+  margin-bottom: 10px;
+}
+
+.box {
+  background: gray;
+  border: 1px solid gold;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+
+#footer {
+  text-align: center;
+  background-color: grey;
+  color: #fff;
+  padding: 25px;
+  margin-top: 15px;
+}
 
 
 
